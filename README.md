@@ -1,6 +1,7 @@
 # grocery
 
-A new Flutter project.
+This app is made for the assignment given by Destion Innovation.This app contains login and signup page connected with fireabse database and a frontend of 
+grocery app.
 
 ## Getting Started
 
